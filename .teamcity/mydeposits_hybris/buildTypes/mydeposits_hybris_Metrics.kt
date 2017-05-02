@@ -49,8 +49,8 @@ object mydeposits_hybris_Metrics : BuildType({
                         publisher = github {
                 githubUrl = "https://api.github.com"
                 authType = password {
-                    userName = ""
-                    password = ""
+                userName = "gennady-atroshko"
+                password = "zxxdaf609ba98d51f135e5a735392ae1669416baa0aa2b207e05226bd5c0a941d28ae50955d0857863f775d03cbe80d301b"
                 }
             }
         }
